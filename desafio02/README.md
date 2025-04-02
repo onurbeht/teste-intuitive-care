@@ -32,15 +32,13 @@ Siga os passos abaixo para executar o projeto:
 1.  **Clone o Repositório (se aplicável):**
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/onurbeht/teste-intuitive-care
     ```
-
-    (Substitua `<URL_DO_SEU_REPOSITORIO>` e `<NOME_DO_SEU_PROJETO>` pelos valores corretos.)
 
 2.  **Navegue até o diretório do projeto:**
 
     ```bash
-    cd <diretorio_do_projeto>/desafio01
+    cd <diretorio_do_projeto>/desafio02
     ```
 
     (Substitua `<diretorio_do_projeto>` pelo caminho para o diretório onde o projeto foi clonado ou descompactado.)

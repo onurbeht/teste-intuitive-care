@@ -28,8 +28,8 @@ Antes de iniciar, certifique-se de ter instalado:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/onurbeht/<github-repositorio>
-   cd <Diretorio do repositorio>
+   git clone https://github.com/onurbeht/teste-intuitive-care
+   cd <Diretorio do repositorio>/desafio04
    ```
 
 2. A base de dados usada, é a mesma do desafio03, para configurar:

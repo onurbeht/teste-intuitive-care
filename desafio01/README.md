@@ -22,10 +22,8 @@ Siga os passos abaixo para executar o projeto:
 1.  **Clone o Repositório (se aplicável):**
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/onurbeht/teste-intuitive-care
     ```
-
-    (Substitua `<URL_DO_SEU_REPOSITORIO>` e `<NOME_DO_SEU_PROJETO>` pelos valores corretos.)
 
 2.  **Navegue até o diretório do projeto:**
 

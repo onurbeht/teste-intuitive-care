@@ -14,16 +14,23 @@ Os dados utilizados neste projeto são publicamente disponíveis pela ANS:
 
 ## Como Executar o Projeto
 
-1.  **Configuração do Banco de Dados (`backup.sql`):**
+1. **Realize o clone do repositorio**
 
-    **Pelo PgAdmin4.**
+   ```bash
+   git clone https://github.com/onurbeht/teste-intuitive-care
+   cd <Diretorio do repositorio>/desafio03
+   ```
 
-    - **1** Crie um Database.
-    - **2** Clique com o botão direito do mouse no Database criado.
-    - **3** Selecione a opção 'Restore...'.
-    - **4** Em Filename, adicione o arquivo 'backup.sql'.
-    - **5** Clique em 'Restore'.
-    - **6** Navegue até: Nome_do_seu_database > Schemas > Public > Tables.
-    - **7** Clique com o botão direito do mouse e selecione a opção 'Refresh'.
-    - **8** Depois, no mesmo lugar, clique com o botão direito do mouse e selecione a opção 'Query Tool'.
-    - **9** Copie e cole os comandos que tem no arquivo 'consulta.sql'. Ou clique na opção 'OpenFile' e abra o arquivo 'consulta.sql' e execute a consulta sql.
+2. **Configuração do Banco de Dados (`backup.sql`):**
+
+   **Pelo PgAdmin4.**
+
+   - **1** Crie um Database.
+   - **2** Clique com o botão direito do mouse no Database criado.
+   - **3** Selecione a opção 'Restore...'.
+   - **4** Em Filename, adicione o arquivo 'backup.sql', que está dentro do diretorio ./desafio03.
+   - **5** Clique em 'Restore'.
+   - **6** Navegue até: Nome_do_seu_database > Schemas > Public > Tables.
+   - **7** Clique com o botão direito do mouse e selecione a opção 'Refresh'.
+   - **8** Depois, no mesmo lugar, clique com o botão direito do mouse e selecione a opção 'Query Tool'.
+   - **9** Copie e cole os comandos que tem no arquivo 'consulta.sql', que está dentro do diretorio ./desafio03. Ou clique na opção 'OpenFile' e abra o arquivo 'consulta.sql' e execute a consulta sql.
